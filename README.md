@@ -1,7 +1,6 @@
 # Hi 👋
 
 ## I'm Ricevire 😎
-
 <img src="https://github-readme-stats.vercel.app/api?username=Ricevire&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="520" />
 
 ### About
@@ -10,8 +9,6 @@ Student Developer · Web System Builder
 
 正在学习 Web 系统开发、项目工程化和 GitHub 仓库整理。  
 喜欢把想法一点点做成可以运行、可以展示的项目。
-
----
 
 ### Projects
 
