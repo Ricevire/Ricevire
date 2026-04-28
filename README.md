@@ -63,32 +63,55 @@
 
 ---
 
-## 📌 Featured Projects
+## 🧩 Featured Projects
 
-### 🏫 fides-gaokao-academic-system
+<div align="center">
 
-> 中国新高考 `3+1+2` 高中教务系统
+| Project | Description | Tech Stack | Status |
+| --- | --- | --- | --- |
+| [fides-gaokao-academic-system](https://github.com/Ricevire/fides-gaokao-academic-system) | 中国新高考 `3+1+2` 高中教务系统，包含学生、教师、班级、选科、成绩、权限与部署设计 | JavaScript / Docker / Web System | 🚧 Building |
+| [devpocket](https://github.com/Ricevire/devpocket) | 快速初始化专业 GitHub 仓库结构的工具，让项目从一开始就更规范 | JavaScript / CLI / GitHub Workflow | 🌱 Improving |
+| [Ricevire](https://github.com/Ricevire/Ricevire) | 我的 GitHub Profile README，用来展示个人方向、技术栈和项目作品 | Markdown / GitHub Profile | ✅ Online |
 
-一个面向高中教务管理场景的系统项目，围绕新高考 `3+1+2` 模式进行设计，包含学生、教师、行政班、教学班、选科组合、课表、考试成绩、权限控制、数据看板、部署文档等模块。
+</div>
 
-项目关键词：
+---
 
-- 新高考 `3+1+2`
-- 行政班 + 教学班
-- 学生 / 教师 / 班主任 / 管理员权限
-- 成绩管理与排名统计
-- Docker 部署
-- 项目工程化文档
+## 🏫 Main Project: fides-gaokao-academic-system
+
+> 一个围绕中国新高考 `3+1+2` 模式设计的高中教务系统。
+
+这个项目是我目前比较重点打磨的系统类作品，目标不是只做几个页面，而是尽量把一个真实教务系统的核心流程做完整。
+
+### 核心方向
+
+- 学生、教师、班主任、管理员等多角色管理
+- 行政班 + 教学班的班级结构设计
+- 新高考 `3+1+2` 选科组合管理
+- 学生考试、成绩、排名与统计
+- 前后端项目结构整理
+- Docker 部署与项目文档完善
+
+### 项目价值
+
+这个项目帮助我练习了从需求分析、数据库设计、业务模块拆分，到前端页面、接口设计、部署文档整理的一整套开发流程。
 
 Repository: [fides-gaokao-academic-system](https://github.com/Ricevire/fides-gaokao-academic-system)
 
 ---
 
-### 🧰 devpocket
+## 🧰 Side Project: devpocket
 
 > Bootstrap a professional GitHub repository in seconds.
 
-一个用于快速初始化专业 GitHub 仓库结构的项目，目标是让项目从一开始就具备更好的目录、文档和工程规范。
+`devpocket` 是一个偏工程化的小工具项目，主要目标是帮助快速创建更规范的 GitHub 仓库结构。
+
+### 关注点
+
+- 项目初始化
+- README 模板
+- 仓库结构规范
+- 开源项目基础配置
 
 Repository: [devpocket](https://github.com/Ricevire/devpocket)
 
